@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MMZB Mohammad Mahdi Zare Bidoki
-- 👀 I’m interested in IOT & Digitale_lectronic
+- 👀 I’m interested in IOT & Digital_electronic
 - 🌱 I’m currently learning Arm programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
